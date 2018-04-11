@@ -1,0 +1,12 @@
+{
+  "index.html": {
+    "href": "index.html",
+    "resources": [
+      "css/reset.min.css",
+      "css/style.css",
+      "js/main.js"
+    ],
+    "refer": [],
+    "priority": 0
+  }
+}
