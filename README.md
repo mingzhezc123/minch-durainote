@@ -14,16 +14,16 @@
 
 ## 界面
 
-> * web端
-![image](https://github.com/mingzhezc123/minch-durainote/blob/master/show/index-web.PNG)
-> * 移动端
-![image](https://github.com/mingzhezc123/minch-durainote/blob/master/show/index-iphone678.PNG)
+* web端<br>
+![image](https://github.com/mingzhezc123/minch-durainote/blob/master/show/index-web.PNG)<br><br>
+* 移动端<br>
+![image](https://github.com/mingzhezc123/minch-durainote/blob/master/show/index-iphone678.PNG)<br>
 
 ## 操作
 
-> * web端
-![image](https://github.com/mingzhezc123/minch-durainote/blob/master/show/web-operation.gif)
-> * 移动端
-![image](https://github.com/mingzhezc123/minch-durainote/blob/master/show/phone-operation.gif)
+* web端<br>
+![image](https://github.com/mingzhezc123/minch-durainote/blob/master/show/web-operation.gif)<br><br>
+* 移动端<br>
+![image](https://github.com/mingzhezc123/minch-durainote/blob/master/show/phone-operation.gif)<br>
 
-###### 本项目仅限学习使用
+###### 本项目仅限学习使用[.apk文件地址](https://github.com/mingzhezc123/minch-durainote/tree/master/unpackage/release)
