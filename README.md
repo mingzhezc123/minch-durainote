@@ -14,16 +14,16 @@
 
 ## 界面
 
-> * web端
+* web端\<br>
 ![image](https://github.com/mingzhezc123/minch-durainote/blob/master/show/index-web.PNG)
-> * 移动端
+* 移动端\<br>
 ![image](https://github.com/mingzhezc123/minch-durainote/blob/master/show/index-iphone678.PNG)
 
 ## 操作
 
-> * web端
+* web端\<br>
 ![image](https://github.com/mingzhezc123/minch-durainote/blob/master/show/web-operation.gif)
-> * 移动端
+* 移动端\<br>
 ![image](https://github.com/mingzhezc123/minch-durainote/blob/master/show/phone-operation.gif)
 
 ###### 本项目仅限学习使用
